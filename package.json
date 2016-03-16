@@ -16,4 +16,7 @@
   },
   "devDependencies": {
   }
+  "peerDependencies": {
+    "eslint": ">=2"
+  }
 }
