@@ -279,7 +279,7 @@
             2,
             "never"
         ],
-        "react/display-name": [0, { "acceptTranspilerName": false }],
+        "react/display-name": [0, { "ignoreTranspilerName": false }],
         "react/forbid-prop-types": [0, { "forbid": ["any", "array", "object"] }],
         "react/jsx-boolean-value": [2, "never"],
         "react/jsx-closing-bracket-location": [2, "line-aligned"],
