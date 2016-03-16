@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-snowflake",
+  "version": "0.1.0",
+  "description": "A special snowflake eslint configuration.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeffRMoore/eslint-config-snowflake.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "eslint-plugin-jasmine": "^1.6.0",
+    "eslint-plugin-react": "^4.0.0",
+  },
+  "devDependencies": {
+  }
+}
