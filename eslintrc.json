@@ -39,8 +39,6 @@
         ],
         "callback-return": 2,
         "camelcase": 2,
-        // Consider switching to AirBnB choice
-        // eslint:recommended: 2, Airbnb: [2, "always-multiline"]
         "comma-dangle": 2,
         "comma-spacing": [
             2,
@@ -70,8 +68,6 @@
         "dot-notation": 0,
         "eol-last": 2,
         "eqeqeq": 2,
-        // Consider changing this
-        // Airbnb: 1
         "func-names": 0,
         "func-style": [
             2,
@@ -252,8 +248,6 @@
         "prefer-rest-params": 2,
         "prefer-spread": 2,
         "prefer-template": 0,
-        // Reconsider settings, don't use Airbnb
-        // Airbnb: [2, "as-needed", { "keywords": false, "unnecessary": true, "numbers": false }]
         "quote-props": 0,
         "quotes": [2, "single", "avoid-escape"],
         "radix": 2,
@@ -272,7 +266,6 @@
             2,
             "always"
         ],
-        // Airbnb: [2, "never"]
         "strict": [2, "global"],
         "template-curly-spacing": 2,
         "use-isnan": 2,
@@ -323,7 +316,6 @@
         "react/no-set-state": 0,
         "react/no-string-refs": 0,
         "react/no-unknown-property": 2,
-        // Temporarily disabled.  After conversion, Set to [2, "always"]
         "react/prefer-es6-class": 0,
         "react/prop-types": [2, { "ignore": [], "customValidators": [] }],
         "react/react-in-jsx-scope": 2,
