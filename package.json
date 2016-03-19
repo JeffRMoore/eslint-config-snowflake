@@ -9,14 +9,13 @@
     "url": "https://github.com/JeffRMoore/eslint-config-snowflake.git"
   },
   "scripts": {},
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": ">=2"
     "eslint-plugin-babel": "3.1.0",
     "eslint-plugin-flow-vars": "^0.2.1",
     "eslint-plugin-jasmine": "^1.6.0",
     "eslint-plugin-react": "^4.0.0"
-  },
-  "devDependencies": {},
-  "peerDependencies": {
-    "eslint": ">=2"
   }
 }
