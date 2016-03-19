@@ -13,7 +13,8 @@
     "plugins": [
         "react",
         "jasmine",
-        "babel"
+        "babel",
+        "eslint-plugin-flow-vars"
     ],
     "rules": {
         "accessor-pairs": 2,
@@ -283,6 +284,8 @@
         "babel/arrow-parens": [2, "as-needed"],
         "babel/array-bracket-spacing": [2, "always"],
         "babel/generator-star-spacing": [2, {"before": true, "after": false}],
+        "flow-vars/define-flow-type": 1,
+        "flow-vars/use-flow-type": 1,
         "react/display-name": [0, { "ignoreTranspilerName": false }],
         "react/forbid-prop-types": [0, { "forbid": ["any", "array", "object"] }],
         "react/jsx-boolean-value": [2, "never"],
