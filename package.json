@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "eslint-plugin-jasmine": "^1.6.0",
-    "eslint-plugin-react": "^4.0.0"
+    "eslint-plugin-react": "^4.0.0",
+    "eslint-plugin-babel": "3.1.0"
   },
   "devDependencies": {
   },
