@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-snowflake",
   "version": "0.1.0",
+  "author": "Jeff Moore <jeff@procata.com>",
   "description": "A special snowflake eslint configuration.",
   "license": "MIT",
   "main": "index.js",
