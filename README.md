@@ -18,7 +18,7 @@ So be it, until the code is retired and there are no more commits, but peace!
 I'm waiting for someone to write a utility that compares two eslint rulesets.  Maybe I will write that someday.  Maybe I won't.  Maybe you will?
 
 ## Documentation
-I'm waiting for someone to write a utility that generates documentation from an eslint ruleset.  Maybe I will write that someday.  maybe I won't.  Maybe you will?
+I'm waiting for someone to write a utility that generates documentation from an eslint ruleset.  Maybe I will write that someday.  Maybe I won't.  Maybe you will?
 
 ## Feedback
 direct feedback to [@Selkirk](https://twitter.com/Selkirk)
