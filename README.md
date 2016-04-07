@@ -21,4 +21,4 @@ I'm waiting for someone to write a utility that compares two eslint rulesets.  M
 I'm waiting for someone to write a utility that generates documentation from an eslint ruleset.  Maybe I will write that someday.  Maybe I won't.  Maybe you will?
 
 ## Feedback
-direct feedback to [@Selkirk](https://twitter.com/Selkirk)
+Direct feedback to [@Selkirk](https://twitter.com/Selkirk).
